@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BlueDyno23
-- 👀 I’m interested in UIs, Java, C# and C++
-- 🌱 I’m currently learning Java & C# unprofessionally :(
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Eyal
+- 👀 I’m interested in User Interface design, Java, C# and amateur  backend frontend development
+- 🌱 I’m currently expanding my knowledge and my skill pool with C#
+- 💞️ I’m looking to collaborate on .. Whatever you offer me
 - 📫 How to reach me  
-  	• Discord: BlueDino2302#9999
+  	• email: deyald230206@gmail.com
 
 <!---
 BlueDyno23/BlueDyno23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
